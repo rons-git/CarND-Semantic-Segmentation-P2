@@ -20,7 +20,7 @@ The function optimize is implemented correctly.
 #### Does the project train the neual network?
 The function train_nn is implemented correctly.  The loss of the network is printed while the network is training.
 
-![](media/terminal.png)
+![](media/terminal.PNG)
 ---------------
 Neural Network Training
 --------
